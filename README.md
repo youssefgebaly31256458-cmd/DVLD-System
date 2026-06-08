@@ -21,7 +21,7 @@ This system is designed to manage driving license operations including adding an
 
 ## 🗄️ Database
 The project uses SQL Server as the database management system.  
-(Attach or include SQL script if available)
+
 
 ## 🚀 How to Run
 1. Open the solution file `DVLD Project.sln` in Visual Studio.
